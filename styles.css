@@ -1,0 +1,27 @@
+
+body {
+    margin: auto;
+	padding: 10px 100px;
+    background-color: rgb(204, 152, 214);
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    width:1150px;
+}
+
+.headings {
+    color: purple;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+#paragraph1 {
+    font-style: italic;
+}
+
+
